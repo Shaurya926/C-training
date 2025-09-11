@@ -4,7 +4,9 @@ int sum()
     int a=5;
     int b=8;
     int c=a+b;
-    printf("%d",c);
+    return c;
 }int main(){
-    sum();
+    int data=sum();
+    printf("%d",data);
+    
 }
