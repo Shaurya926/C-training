@@ -1,10 +1,10 @@
 #include<stdio.h>
 int  main()
 {
-    int a[5]={-4,-1,-2,-7,-3};
+    int a[5]={-4,-1,2,-7,3};
     int sum_a[3];
-    for(int i=0,j=1,k=2;i<3,j<4,k<5;i++,j++,k++){
-                sum_a[i]=a[i]+a[j]+a[k];
+    for(int i=0;i<3;i++){
+                sum_a[i]=a[i]+a[i+1]+a[i+2];
                
     }
 

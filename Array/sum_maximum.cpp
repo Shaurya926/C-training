@@ -1,7 +1,7 @@
 #include<stdio.h>
 int  main()
 {
-    int a[5]={1,-2,3,-4,6};
+    int a[5]={-1,-2,-3,-4,-1};
     int sum_a=a[0];
     int suma[4];
     for(int i=1;i<5;i++){
@@ -17,6 +17,6 @@ int  main()
         if(great <suma[i])
         great=suma[i];
      }
-     printf("%d",great);
+     printf("GOAT = %d",great);
     return 0;
 }
