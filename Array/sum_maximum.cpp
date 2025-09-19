@@ -17,6 +17,6 @@ int  main()
         if(great <suma[i])
         great=suma[i];
      }
-     printf("GOAT = %d",great);
+     printf("GOAT of suma[] = %d",great);
     return 0;
 }
