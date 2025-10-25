@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Write a program to demonstrate nested user-defined data types.
 struct address
 {
     int PINCODE;
