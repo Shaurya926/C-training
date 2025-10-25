@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Check Bank balance using switch case.
 int main()
 {
     int amt,bal=1000,ch;
