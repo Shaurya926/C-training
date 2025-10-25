@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Example of switch case statement.
 int main(){
 
  int a;
