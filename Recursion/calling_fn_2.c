@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Function to calculate the sum of first 'a' natural numbers using recursion.
 int sum(int a){
     if(a==0){
         return 0;
