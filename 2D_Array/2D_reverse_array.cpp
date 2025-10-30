@@ -1,10 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-    int arr[3][3]={{1,2,3},{4,5,6},{4,3,9}};
+    int arr[3][3]={{1,2,3},{4,6,7},{2,9,6}};
     for(int i=0;i<3;i++){
-        for(int j=0;j<3;j++){
+        for(int j=2;j>=0;j--){
             printf(" %d",arr[i][j]);
         }printf("\n");
     }
 }
+
