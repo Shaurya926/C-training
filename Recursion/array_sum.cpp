@@ -7,7 +7,8 @@ int array_sum(int n){
     }
     int sum= arr[n]+ array_sum(n-1);
     return sum; 
-}int main()
+}
+int main()
 {
     int result= array_sum(2);
     printf("%d\n",result);
