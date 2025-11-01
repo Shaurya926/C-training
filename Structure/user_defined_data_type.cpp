@@ -19,7 +19,7 @@ int main()
 {
     struct Student s1;
     s1.age=20;
-    s1.Roll_no=101;
+    s1.Roll_no=100;
     address s2;
     s1.s2.PINCODE=68879;
     strcpy(s1.Name,"Shaurya");
