@@ -1,3 +1,4 @@
+//Sum of 2 number in array. 
 #include<stdio.h>
 int sum()
 {
