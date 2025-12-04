@@ -14,3 +14,10 @@ int main(){
     }
     return 0;
 }
+/*Print pyramid
+pattern
+for n=3
+          *
+         ***
+        *****
+*/

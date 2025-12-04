@@ -19,3 +19,13 @@ int main()
         printf("\n");
     }
 }
+/*
+Print opposite triangle
+pattern
+for n=5
+*****
+ ****
+  ***
+   **
+    *
+*/

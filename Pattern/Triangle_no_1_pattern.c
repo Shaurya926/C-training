@@ -11,3 +11,11 @@ int main(){
     }
     return 0;
 }
+/*
+Print left aligend triangle.
+pattern
+for n=3
+*
+**
+***
+*/

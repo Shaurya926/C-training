@@ -14,3 +14,12 @@ int main(){
     }
     return 0;
 }
+/*
+Print right aligend triangle.
+pattern
+for n=5
+    *
+   **
+  ***
+ ****
+*/
