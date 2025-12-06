@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 //Bubble Sort implementation in C
+//Select the smallest element and put it at the beginning of the unsorted part of the array
 
 void bubbleSort(int arr[], int n) {
     int i, j, temp;
