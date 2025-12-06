@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Merge Sort implementation in C
+// Divide the array into halves, sort each half, and merge them back together
+
 void insertionSort(int arr[], int n) {
     int i, key, j;
     for (i = 1; i < n; i++) {

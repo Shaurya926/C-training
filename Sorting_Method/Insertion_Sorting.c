@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Insertion Sort implementation in C
+// Insert each element into its correct position in the sorted part of the array
+
 void insertionSort(int arr[], int n) {
     int i, key, j;
     for (i = 1; i < n; i++) {
