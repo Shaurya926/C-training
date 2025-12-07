@@ -6,3 +6,5 @@ int main()
     printf("Original: %d, After right shift by 2: %d\n", a, b);
     return 0;
 }
+// Right shifting method useful in many real life programs like
+// Graphics programming, Cryptography, Network programming etc.

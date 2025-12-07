@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // Swap two numbers using bitwise shifting and XOR without using a temporary variable.
+// This method effectively swaps the values of a and b.
 
 int main() {
     int a, b;
