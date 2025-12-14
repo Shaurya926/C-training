@@ -2,7 +2,7 @@
 #include<string.h>
 int main()
 {
-    char str[]="hellow";
+    char str[]="hello world";
    int ln= strlen(str);
    int dupli=0;
    for(int i=0;i<ln;i++){
