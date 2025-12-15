@@ -8,6 +8,9 @@ int main()
         for(int j=0;j<3;j++){
             arr1[k]=arr[i][j];
             k++;
-        }printf("%d");
+        }
+    }
+    for(int i=0;i<9;i++){
+        printf("%d ",arr1[i]);
     }
 }
