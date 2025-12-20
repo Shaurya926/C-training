@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Function to calculate the factorial of 'n' using recursion.
 int factorial(int n){
     if(n==0){
         return 1;
