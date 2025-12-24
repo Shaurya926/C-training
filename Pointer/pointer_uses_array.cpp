@@ -5,4 +5,10 @@ int main(){
     printf("%d",*(p));
     printf("%d",*(p+1));
     printf("%d",*(p+2));
+    printf("%d",*(p+3));
+    printf("%d",*(p+4));
+    printf("\n");
+    for(int i=0;i<5;i++){
+        printf("%d",*(p+i));
+    }
 }
