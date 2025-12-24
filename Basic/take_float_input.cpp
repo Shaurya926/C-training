@@ -1,5 +1,7 @@
 #include <stdio.h>
  
+// Program to take float input from user
+
 int main(){
     float num;
     printf("Enter a floating point number: ");
