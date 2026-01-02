@@ -1,8 +1,9 @@
-#include<stdio.h>
 // WAP to make a simple calculator using if..else statement
 // + , - , * , /
 // Input : 10 5 +
 // Output : The Addition of Two Numbers : 15
+
+#include<stdio.h>
 int main()
 {
     int a,b;
