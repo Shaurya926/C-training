@@ -1,4 +1,5 @@
 #include<stdio.h>
+//sum of array elements
 int main(){
     int arr[5]={1,2,3,4,5};
     int sum=0;
